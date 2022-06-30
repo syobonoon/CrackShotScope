@@ -1,0 +1,4 @@
+name: CrackShotScope
+version: '${project.version}'
+main: net.syobonoon.plugin.crackshotscope.CrackShotScope
+api-version: 1.15
